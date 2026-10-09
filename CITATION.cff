@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Graph-Enhanced Multimodal Sign Language Translation"
+type: software
+authors:
+  - family-names: "S"
+    given-names: "Chaithra A"
+  - family-names: "H"
+    given-names: "Asha K"
+version: 1.0.0
+date-released: 2026-10-08
+license: MIT
